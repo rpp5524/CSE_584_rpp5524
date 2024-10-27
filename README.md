@@ -10,11 +10,8 @@ This repository contains all the homework assignments and associated code files 
 ## Structure
 
 - `Homework_1/`: Contains the first homework assignment, including papers & reports
-- `Homework_2/`: Contains the second homework assignment, including problem statements, solutions, and any supporting scripts.
-- `...`
-- `Scripts/`: Contains general-purpose scripts that are used across multiple assignments.
-- `Data/`: Contains datasets used for various assignments (if applicable).
-- `Docs/`: Includes documentation or notes related to the assignments.
+- `Homework_2/`: Contains the second homework assignment pdf
+
 
 ## How to Use
 
