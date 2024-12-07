@@ -515,7 +515,7 @@ Mathematics,"If you are driving a bus with 10 people on it, and at the first sto
 - You start with 10 passengers.
 - At this point, you have:
     - People who got off = 3
-    - Remaining from original number of passengers = 10 - 3 = 7
+    - Remaining from original number of passengers = 10 - 3=7
 
 2nd stop (no one gets on):
    The bus still has the same people as after the first stop.
